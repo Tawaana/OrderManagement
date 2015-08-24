@@ -1,0 +1,7 @@
+FORMATS
+
+Customer ID - Numeric
+Order ID - Numeric
+Date Format - DD-MON-YYYY
+Order Status - new|outProvisioning|inProvisioning|complete|cancelled
+Customer Class - platinum|gold|silver|bronze (for VES only)
