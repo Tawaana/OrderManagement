@@ -51,7 +51,7 @@
     "orderstatus": "new|outProvisioning|inProvisioning|complete|cancelled",
     "services": [ {
       "servicecode": "ves1523",
-      "servicename": "pip",
+      "servicename": "pip"
     }
     ],
     "products": [ {
